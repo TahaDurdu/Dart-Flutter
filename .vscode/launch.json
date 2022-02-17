@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "Bolum9/generic_metod_oluşturma.dart"
+            "program": "Bolum10/diger_future_anlatimlari.dart"
         }
     ]
 }
